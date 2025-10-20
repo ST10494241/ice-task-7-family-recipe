@@ -1,0 +1,67 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #fff8f0;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #ffebe0;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2rem;
+    color: #d1495b;
+}
+
+header p {
+    font-size: 1.1rem;
+    color: #6b4226;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 30px;
+    padding: 15px;
+    background-color: #fff0e6;
+    border-radius: 8px;
+}
+
+h2 {
+    color: #d1495b;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+ol {
+    margin-left: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    color: #fff;
+    background-color: #d1495b;
+    border-radius: 8px;
+}
